@@ -14,9 +14,9 @@ timezone: America/Vancouver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My Portfolio # the main title
+title: Kiawnu # the main title
 
-tagline: Place to share cool projects! # it will display as the subtitle
+tagline: Come build new things with me! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Space to post updates on current projects, documentation, and chat about interesting topics!
@@ -35,14 +35,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Kian Abdollahi
-  email: example@domain.com # change to your email address
+  email: kabdollahi347@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username  change to your Twitter homepage
     - https://github.com/kiawnu # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/kian-a-451969260/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: [dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/images/crabpfp.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
