@@ -1,9 +1,9 @@
 ---
 title: Experimental Aquaponics Automation Project
-date: 2026-12-25
+date: 2026-01-07
 categories: [PROJECTS, IOT]
 tags: [aquaponics, iot, sensors]     
-author: Kian 
+author: Kian Abdollahi
 ---
 
 ## The Idea
