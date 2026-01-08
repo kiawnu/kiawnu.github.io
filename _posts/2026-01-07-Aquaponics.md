@@ -31,20 +31,20 @@ It was exactly the kind of setup I needed for the space I had in my office and t
 Here is my version!
 
 
-![Aquaponics Diagram](/assets/images/_1010064.JPG)
-![Aquaponics Diagram](/assets/images/_1010066.JPG)
+![Entire setup one](/assets/images/entiresetup-one.jpg)
+![Entire setup two](/assets/images/entiresetup-two.jpg)
 *Entire setup*
 
-![Aquaponics Diagram](/assets/images/_1010063.JPG)
+![Grow bed with bell siphon](/assets/images/growbed.jpg)
 *Grow bed with bell siphon*
 
-![Aquaponics Diagram](/assets/images/_1010065.JPG)
+![Mechanical filter](/assets/images/mechanicalfilter.jpg)
 *Mechanical filter, dirty (nutrient filled) water is brought from fish tank to the filter*
 
-![Aquaponics Diagram](/assets/images/_1010067.JPG)
+![Pump and fish](/assets/images/pump.jpg)
 *Pump, and fish!*
 
-![Aquaponics Diagram](/assets/images/_1010070.JPG)
+![Return pipe](/assets/images/returnpipe.jpg)
 *Return pipe*
 
 The main differences between my version and the one in David's article are that I used a larger grow bed and a more powerful pump, and I have tried to make the fish tank more suitable for fish. As many people pointed out, he was keeping multiple koi fish in only a 20-gallon tank with no substrate or anything really. Koi really need a much larger tank size; even just keeping one in a 20-gallon tank could be considered cruel. For this reason I opted to go with goldfish, as they still produce a lot of waste, and I am only keeping three for now. I will be monitoring their size and moving them to a pond if they outgrow this tank. 
